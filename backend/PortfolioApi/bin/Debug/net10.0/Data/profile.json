@@ -1,0 +1,23 @@
+{
+  "name": "Tushar Dabhade",
+  "role": "Full Stack Developer | .NET & React",
+  "subtitle": "Final-year Computer Engineering student focused on AI-enabled full-stack applications, IoT systems, and production environments.",
+  "email": "dabhadet09@gmail.com",
+  "phone": "+91 9588443517",
+  "location": "Pune, India",
+  "stats": [
+    {
+      "value": "150+",
+      "label": "LeetCode"
+    },
+    {
+      "value": "2+",
+      "label": "Internships"
+    }
+  ],
+  "about": [
+    "Final-year Computer Engineering student with a strong foundation in Full Stack Development and IoT systems.",
+    "I am currently pursuing my B.E. at Dr. D. Y. Patil Institute of Technology (CGPA: 8.21/10). My work experience includes a .NET Full Stack Development internship at Cognizant focused on IoT device monitoring, as well as a frontend development stint at Octanet Services.",
+    "Beyond development, I have solved 150+ LeetCode problems across various data structures and algorithms, and I hold certifications in Java Full Stack, React.js, and HTML/CSS. I thrive in building AI-enabled applications and production-ready systems."
+  ]
+}

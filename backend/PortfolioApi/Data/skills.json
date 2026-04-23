@@ -1,0 +1,22 @@
+[
+  {
+    "category": "Frontend Development",
+    "iconName": "Layout",
+    "technologies": ["React.js", "Redux", "TypeScript", "JavaScript", "HTML5/CSS3", "Tailwind CSS", "Bootstrap"]
+  },
+  {
+    "category": "Backend Development",
+    "iconName": "Server",
+    "technologies": ["ASP.NET Core", "Spring Boot", "Entity Framework", "Microservices", "REST APIs", "C#", "Java", "Python"]
+  },
+  {
+    "category": "Database & Cloud",
+    "iconName": "Database",
+    "technologies": ["Azure SQL", "MySQL", "MongoDB", "Redis", "Azure IoT Hub", "Azure App Service"]
+  },
+  {
+    "category": "Tools & AI",
+    "iconName": "Code2",
+    "technologies": ["Docker", "Azure DevOps", "CI/CD Pipelines", "OpenAI API", "RAG", "Prompt Engineering", "Git"]
+  }
+]

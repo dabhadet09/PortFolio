@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "title": "Predictive Maintenance Lite",
+    "description": "Real-time industrial equipment monitoring system. Analyzes sensor data for fault detection to reduce downtime via predictive insights.",
+    "image": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+    "tags": [
+      "ASP.NET Core",
+      "Azure IoT Hub",
+      "React",
+      "Docker",
+      "EF Core"
+    ],
+    "github": "#",
+    "live": "#"
+  },
+  {
+    "id": 2,
+    "title": "Multi-Platform Sentiment Analysis",
+    "description": "ML model for classifying sentiment in Hinglish and Marathi. Features dashboard visualizations and API integration with YouTube & Reddit.",
+    "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+    "tags": [
+      "Python",
+      "Machine Learning",
+      "NLP",
+      "Streamlit",
+      "BERT"
+    ],
+    "github": "https://github.com/dabhadet09/sentiment-analysis-government-policies",
+    "live": "#"
+  },
+  {
+    "id": 3,
+    "title": "Full Stack Blog App",
+    "description": "A comprehensive blog system with authentication, authorization, CRUD operations, and search/filtering capabilities.",
+    "image": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+    "tags": [
+      "React",
+      "Spring Boot",
+      "MySQL",
+      "REST APIs"
+    ],
+    "github": "https://github.com/dabhadet09/Student-Management-System",
+    "live": "#"
+  }
+]

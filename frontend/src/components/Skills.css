@@ -1,0 +1,49 @@
+.bg-darker {
+  background-color: rgba(0, 0, 0, 0.2);
+}
+
+.skills-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 2rem;
+}
+
+.skill-card {
+  padding: 2.5rem 2rem;
+  text-align: left;
+}
+
+.skill-header {
+  margin-bottom: 1.5rem;
+}
+
+.skill-icon {
+  color: var(--accent-color);
+  margin-bottom: 1rem;
+}
+
+.skill-category {
+  font-size: 1.25rem;
+  margin-bottom: 0.5rem;
+}
+
+.skill-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.skill-tag {
+  background: rgba(255, 255, 255, 0.05);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  padding: 0.4rem 0.8rem;
+  border-radius: 8px;
+  font-size: 0.85rem;
+  color: var(--text-secondary);
+  transition: var(--transition);
+}
+
+.skill-card:hover .skill-tag {
+  border-color: rgba(59, 130, 246, 0.3);
+  color: var(--text-primary);
+}
