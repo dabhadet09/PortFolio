@@ -15,7 +15,10 @@ FROM mcr.microsoft.com/dotnet/aspnet:10.0 AS final
 WORKDIR /app
 COPY --from=build /app/publish .
 
-# Render exposes the web service on a dynamic port, 8080 is standard for .NET containers
+# ---> ADD THIS EXACT LINE HERE <---
+COPY --from=build /src/Data ./Data
+
+# Render exposes the web service on a dynamic port
 EXPOSE 8080
 ENV ASPNETCORE_URLS=http://+:8080
 
